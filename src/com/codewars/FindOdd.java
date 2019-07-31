@@ -32,4 +32,3 @@ public static int FindIntOddTopAnswer(int[] a){
     return xor;
 }
 }
-}
